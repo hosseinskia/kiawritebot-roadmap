@@ -1,0 +1,13 @@
+# Site settings
+title: KiaWriteBot Roadmap
+description: Public development roadmap of KiaWriteBot
+baseurl: "/kiawritebot-roadmap"
+url: "https://hosseinskia.github.io"
+
+# Theme
+theme: just-the-docs
+color_scheme: light
+
+# Plugins
+plugins:
+  - jekyll-feed

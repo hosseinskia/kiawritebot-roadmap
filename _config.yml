@@ -1,7 +1,7 @@
 # Site settings
 title: KiaWriteBot Roadmap
 description: Public development roadmap of KiaWriteBot
-baseurl: "/kiawritebot-roadmap"
+baseurl: "/kiawritebot_roadmap"
 url: "https://hosseinskia.github.io"
 
 # Theme

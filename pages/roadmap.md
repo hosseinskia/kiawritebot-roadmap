@@ -8,12 +8,11 @@ permalink: /
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <meta name="title" content="{{ page.title | escape }}" />
-  <meta name="description" content="Explore the development roadmap of KiaWriteBot, including planned features, analytics, admin tools, and security improvements." />
-
+  <meta name="description" content="A detailed public roadmap for KiaWriteBot — a versatile Telegram bot." />
   <meta property="og:type" content="website" />
   <meta property="og:url" content="{{ site.url }}{{ site.baseurl }}" />
   <meta property="og:title" content="{{ page.title | escape }}" />
-  <meta property="og:image" content="https://cdn-icons-png.flaticon.com/512/7402/7402503.png" />
+  <meta property="og:image" content="/images/kiawritebot.png" />
 
   <link rel="shortcut icon" type="image/png" href="https://cdn-icons-png.flaticon.com/512/7402/7402503.png">
   <title>{{ page.title }}</title>
@@ -290,7 +289,7 @@ Welcome to the public development roadmap for **KiaWriteBot**, a feature-rich Te
 
 <div class="about">
   <div class="about-content">
-    <img src="{{ site.baseurl }}/images/kiawritebot.png" alt="KiaWriteBot Logo" class="about-image" />
+    <img src="/images/kiawritebot.png" alt="KiaWriteBot Logo" class="about-image" />
     <div class="about-text">
       <strong>About KiaWriteBot</strong><br>
       KiaWriteBot is a feature-packed Telegram bot offering news, weather, QR code generation, YouTube downloads, and more. Built with Node.js, Python, MongoDB, and Upstash Redis, it ensures secure, scalable interactions with a robust admin dashboard.

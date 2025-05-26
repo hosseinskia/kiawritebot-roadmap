@@ -2,7 +2,7 @@ title: KiaWriteBot Roadmap
 description: Public development roadmap of KiaWriteBot
 theme: jekyll-theme-cayman
 url: "https://hosseinskia.github.io"
-baseurl: "/kiawritebot_roadmap"
+baseurl: "/kiawritebot-roadmap"
 collections:
   pages:
     output: true

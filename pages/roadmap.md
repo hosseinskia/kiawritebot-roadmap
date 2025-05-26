@@ -3,10 +3,14 @@ layout: page
 title: KiaWriteBot Roadmap
 permalink: /
 ---
+<link rel="shortcut icon" type="image/png" href="https://cdn-icons-png.flaticon.com/512/7402/7402503.png">
 
 <style>
+
+    @import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+
   body {
-    font-family: 'Segoe UI', Arial, sans-serif;
+    font-family: 'Noto Sans', Arial, sans-serif;
     line-height: 1.6;
     color: #333;
     max-width: 900px;

@@ -3,6 +3,17 @@ layout: page
 title: KiaWriteBot Roadmap
 permalink: /
 ---
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="title" content="KiaWriteBot Roadmap" />
+<meta name="description" content="Explore the development roadmap of KiaWriteBot, including planned features, analytics, admin tools, and security improvements." />
+
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://hosseinskia.github.io/kiawritebot_roadmap/" />
+<meta property="og:title" content="KiaWriteBot Roadmap" />
+<meta property="og:image" content="https://cdn-icons-png.flaticon.com/512/7402/7402503.png" />
+
 <link rel="shortcut icon" type="image/png" href="https://cdn-icons-png.flaticon.com/512/7402/7402503.png">
 
 <style>

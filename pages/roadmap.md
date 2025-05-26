@@ -45,8 +45,13 @@ permalink: /
     font-size: 2.5em;
     text-align: center;
     margin-bottom: 0.5em;
+    animation: fadeIn 1s ease;
   }
 
+  @keyframes fadeIn {
+    from { opacity: 0; transform: translateY(-10px); }
+    to { opacity: 1; transform: translateY(0); }
+  }
   .copyright {
     text-align: center;
     font-size: 14px;
@@ -285,8 +290,7 @@ Welcome to the public development roadmap for **KiaWriteBot**, a feature-rich Te
 
 <div class="about">
   <div class="about-content">
-    <img src="../kiawritebot.png" alt="KiaWriteBot Logo" class="about-image" />
-
+    <img src="{{ site.baseurl }}/images/kiawritebot.png" alt="KiaWriteBot Logo" class="about-image" />
     <div class="about-text">
       <strong>About KiaWriteBot</strong><br>
       KiaWriteBot is a feature-packed Telegram bot offering news, weather, QR code generation, YouTube downloads, and more. Built with Node.js, Python, MongoDB, and Upstash Redis, it ensures secure, scalable interactions with a robust admin dashboard.

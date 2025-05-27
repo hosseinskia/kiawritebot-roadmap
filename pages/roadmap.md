@@ -12,7 +12,7 @@ permalink: /
   <meta property="og:type" content="website" />
   <meta property="og:url" content="{{ site.url }}{{ site.baseurl }}" />
   <meta property="og:title" content="{{ page.title | escape }}" />
-  <meta property="og:image" content="{{ site.baseurl }}/images/kiawritebot.png" />
+  <meta property="og:image" content="https://hosseinskia.github.io/kiawritebot-roadmap/images/kiawritebot.png" />
   <meta name="google-site-verification" content="gHLPnEhgZSLI6vp3poO4F-B1KuYJKbtnDGKe50rWjuw" />
   <link rel="shortcut icon" type="image/png" href="https://cdn-icons-png.flaticon.com/512/7402/7402503.png">
   <title>{{ page.title }}</title>

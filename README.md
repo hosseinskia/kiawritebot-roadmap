@@ -95,6 +95,6 @@ This project is licensed under the [MIT License](LICENSE).
 For questions, feedback, or suggestions, reach out to the project maintainer:
 
 - **GitHub**: [hosseinskia](https://github.com/hosseinskia)
-- **Telegram**: [Contact](http://t.me/amirkia_s)
+- **Telegram**: [@amirkia_s](http://t.me/amirkia_s)
 
 Thank you for exploring the KiaWriteBot Roadmap! Join us in shaping the future of this powerful Telegram bot and its admin dashboard.

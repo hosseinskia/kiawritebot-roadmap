@@ -36,7 +36,7 @@ To set up the roadmap site locally and explore the project:
    bundle exec jekyll serve
    ```
 4. **Access the site**:
-   Navigate to `http://localhost:4000` in your browser.
+   Navigate to `http://localhost:4000/kiawritebot-roadmap/` in your browser.
 
 ## 📋 Roadmap Overview
 

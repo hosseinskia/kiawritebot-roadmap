@@ -3,6 +3,7 @@ layout: page
 title: KiaWriteBot Roadmap
 permalink: /
 ---
+
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -286,7 +287,6 @@ permalink: /
 
 Welcome to the public development roadmap for **KiaWriteBot**, a feature-rich Telegram bot designed to enhance user interactions with tools for news, weather, coding, and more. Explore our progress, planned features, and contribute to shaping the future of KiaWriteBot.
 
-
 <div class="about">
   <div class="about-content">
     <img src="{{ site.baseurl }}/images/kiawritebot.png" onerror="this.onerror=null; this.src='/images/kiawritebot.png';" loading="lazy" alt="KiaWriteBot Logo" class="about-image" />
@@ -320,6 +320,7 @@ Welcome to the public development roadmap for **KiaWriteBot**, a feature-rich Te
 </div>
 
 ## Table of Contents
+
 <div class="toc">
   <ul>
     <li><a href="#feature-additions">Feature Additions</a></li>
@@ -334,6 +335,7 @@ Welcome to the public development roadmap for **KiaWriteBot**, a feature-rich Te
 </div>
 
 ## Feature Additions
+
 <details>
   <summary>New Commands and Functionalities</summary>
   <ul>
@@ -358,6 +360,7 @@ Welcome to the public development roadmap for **KiaWriteBot**, a feature-rich Te
 </details>
 
 ## Security Improvements
+
 <details>
   <summary>Enhancing System Security</summary>
   <ul>
@@ -371,6 +374,7 @@ Welcome to the public development roadmap for **KiaWriteBot**, a feature-rich Te
 </details>
 
 ## Performance & Deployment
+
 <details>
   <summary>Optimizing Speed and Scalability</summary>
   <ul>
@@ -381,6 +385,7 @@ Welcome to the public development roadmap for **KiaWriteBot**, a feature-rich Te
 </details>
 
 ## Analytics and Monitoring
+
 <details>
   <summary>Advanced Data Insights</summary>
   <ul>
@@ -396,6 +401,7 @@ Welcome to the public development roadmap for **KiaWriteBot**, a feature-rich Te
 </details>
 
 ## Admin Panel Features
+
 <details>
   <summary>Enhancing Admin Capabilities</summary>
   <ul>
@@ -412,6 +418,7 @@ Welcome to the public development roadmap for **KiaWriteBot**, a feature-rich Te
 </details>
 
 ## User Experience
+
 <details>
   <summary>Improving User Interaction</summary>
   <ul>
@@ -422,6 +429,7 @@ Welcome to the public development roadmap for **KiaWriteBot**, a feature-rich Te
 </details>
 
 ## UX/UI Improvements
+
 <details>
   <summary>Polishing the Interface</summary>
   <ul>
@@ -433,6 +441,7 @@ Welcome to the public development roadmap for **KiaWriteBot**, a feature-rich Te
 </details>
 
 ## Telegram Bot Command Ideas
+
 <details open>
   <summary>100 Innovative Commands</summary>
   <div class="command-grid">
@@ -544,8 +553,6 @@ Welcome to the public development roadmap for **KiaWriteBot**, a feature-rich Te
   &copy; <span id="year"></span> KiaWriteBot by 
   <a href="https://github.com/hosseinskia" target="_blank" rel="noopener noreferrer">hosseinskia</a>. All rights reserved.
 </footer>
-
-
 
 <script>
   document.addEventListener("DOMContentLoaded", () => {
